@@ -1,0 +1,2 @@
+Karpathy's Lection: "Let's build GPT: from scratch, in code, spelled out." (https://youtu.be/kCc8FmEb1nY?si=BBNSL_jlkumCLpYC)
+Companion notebook: https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing
